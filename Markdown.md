@@ -32,9 +32,9 @@ Duration: 5 min
 
 
 
-\(1\) The  **Project Name **  field is filled out.
+\(1\) The  **Project Name**  field is filled out.
 
-\(2\) The  **End of Prepare Phase **  field is filled out.
+\(2\) The  **End of Prepare Phase**  field is filled out.
 
 \(3\) The  **End of Explore Phase **  field is filled out.
 
