@@ -8,7 +8,7 @@ Duration: 5 min
 
 
 
-[Step 1: ](Implementation Portal for SAP S/4HANA Cloud)
+### Step 1: Implementation Portal for SAP S/4HANA Cloud
 
 
 
