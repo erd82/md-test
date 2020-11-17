@@ -1,26 +1,26 @@
 ﻿## Chapter 1
 
-[Step 1: ](SAP Cloud ALM Teched-40: Log On - Google Chrome)
+### Step 1: SAP Cloud ALM Teched-40: Log On - Google Chrome
 
 
 
-\(1\) A text is entered in the  text field.
+\(1\) Enter  in the  text field.
 
 ![](Markdown_files/img_0.png)
 
 
 
-[Step 2: ](SAP Cloud ALM Teched-40: Log On - Google Chrome)
+### Step 2: SAP Cloud ALM Teched-40: Log On - Google Chrome
 
 
 
-\(1\) A text is entered in the  text field.
+\(1\) Enter  **Teched\-build40**  in the  text field.
 
 ![](Markdown_files/img_000.png)
 
 
 
-[Step 3: ](SAP Cloud ALM Teched-40: Log On - Google Chrome)
+### Step 3: SAP Cloud ALM Teched-40: Log On - Google Chrome
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-[Step 4: ](Home - Google Chrome)
+### Step 4: Home - Google Chrome
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-[Step 5: ](Overview - Google Chrome)
+### Step 5: Overview - Google Chrome
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-[Step 6: ](Overview - Google Chrome)
+### Step 6: Overview - Google Chrome
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-[Step 7: ](Overview - Google Chrome)
+### Step 7: Overview - Google Chrome
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-[Step 8: ](Project - Google Chrome)
+### Step 8: Project - Google Chrome
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-[Step 9: ](Project - Google Chrome)
+### Step 9: Project - Google Chrome
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-[Step 10: ](Project - Google Chrome)
+### Step 10: Project - Google Chrome
 
 
 
@@ -100,17 +100,17 @@
 
 
 
-[Step 11: ](Project - Google Chrome)
+### Step 11: Project - Google Chrome
 
 
 
-\(1\) A text is entered in the  text field.
+\(1\) Enter  in the  text field.
 
 ![](Markdown_files/img_009.png)
 
 
 
-[Step 12: ](Project - Google Chrome)
+### Step 12: Project - Google Chrome
 
 
 
@@ -120,7 +120,7 @@
 
 
 
-[Step 13: ](Project - Google Chrome)
+### Step 13: Project - Google Chrome
 
 
 
@@ -130,7 +130,7 @@
 
 
 
-[Step 14: ](Project - Google Chrome)
+### Step 14: Project - Google Chrome
 
 
 
@@ -140,7 +140,7 @@
 
 
 
-[Step 15: ](Project - Google Chrome)
+### Step 15: Project - Google Chrome
 
 
 
@@ -150,7 +150,7 @@
 
 
 
-[Step 16: ](Project - Google Chrome)
+### Step 16: Project - Google Chrome
 
 
 
@@ -160,7 +160,7 @@
 
 
 
-[Step 17: ](Project - Google Chrome)
+### Step 17: Project - Google Chrome
 
 
 
@@ -170,7 +170,7 @@
 
 
 
-[Step 18: ](Project - Google Chrome)
+### Step 18: Project - Google Chrome
 
 
 
@@ -180,7 +180,7 @@
 
 
 
-[Step 19: ](Project - Google Chrome)
+### Step 19: Project - Google Chrome
 
 
 
@@ -190,7 +190,7 @@
 
 
 
-[Step 20: ](Project - Google Chrome)
+### Step 20: Project - Google Chrome
 
 
 
@@ -200,7 +200,7 @@
 
 
 
-[Step 21: ](Project - Google Chrome)
+### Step 21: Project - Google Chrome
 
 
 
@@ -210,7 +210,7 @@
 
 
 
-[Step 22: ](Project - Google Chrome)
+### Step 22: Project - Google Chrome
 
 
 
@@ -220,17 +220,17 @@
 
 
 
-[Step 23: ](Project - Google Chrome)
+### Step 23: Project - Google Chrome
 
 
 
-\(1\) A text is entered in the  text field.
+\(1\) Enter  **t**  in the  text field.
 
 ![](Markdown_files/img_021.png)
 
 
 
-[Step 24: ](Project - Google Chrome)
+### Step 24: Project - Google Chrome
 
 
 
@@ -240,17 +240,17 @@
 
 
 
-[Step 25: ](Project - Google Chrome)
+### Step 25: Project - Google Chrome
 
 
 
-\(1\) A text is entered in the  text field.
+\(1\) Enter  **tech**  in the  text field.
 
 ![](Markdown_files/img_023.png)
 
 
 
-[Step 26: ](Project - Google Chrome)
+### Step 26: Project - Google Chrome
 
 
 
@@ -260,7 +260,7 @@
 
 
 
-[Step 27: ](Project - Google Chrome)
+### Step 27: Project - Google Chrome
 
 
 
@@ -270,7 +270,7 @@
 
 
 
-[Step 28: ](Project - Google Chrome)
+### Step 28: Project - Google Chrome
 
 
 
@@ -280,7 +280,7 @@
 
 
 
-[Step 29: ](Overview - Google Chrome)
+### Step 29: Overview - Google Chrome
 
 
 
@@ -290,7 +290,7 @@
 
 
 
-[Step 30: ](Overview - Google Chrome)
+### Step 30: Overview - Google Chrome
 
 
 
